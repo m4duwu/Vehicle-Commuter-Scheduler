@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\haziq\Downloads\project\project\main.cpp(505,12): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\haziq\Downloads\project\project\main.cpp(513,12): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\haziq\Downloads\project\project\main.cpp(628,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haziq\Downloads\project\project\main.cpp(1074,12): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\haziq\Downloads\project\project\main.cpp(1084,11): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\haziq\Downloads\project\project\main.cpp(1187,14): warning C4129: 'C': unrecognized character escape sequence
+  project.vcxproj -> C:\Users\haziq\Downloads\project\Debug\project.exe

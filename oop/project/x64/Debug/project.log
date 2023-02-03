@@ -1,0 +1,18 @@
+﻿  Commuter.cpp
+  Logistic.cpp
+  main.cpp
+F:\oop\project\main.cpp(772,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop\project\main.cpp(997,12): warning C4129: 'C': unrecognized character escape sequence
+F:\oop\project\main.cpp(1003,12): warning C4129: 'C': unrecognized character escape sequence
+F:\oop\project\main.cpp(1015,11): warning C4129: 'C': unrecognized character escape sequence
+F:\oop\project\main.cpp(1037,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop\project\main.cpp(1111,14): warning C4129: 'C': unrecognized character escape sequence
+F:\oop\project\main.cpp(1221,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop\project\main.cpp(1253,12): warning C4129: 'C': unrecognized character escape sequence
+F:\oop\project\main.cpp(1256,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\oop\project\main.cpp(1262,12): warning C4129: 'C': unrecognized character escape sequence
+F:\oop\project\main.cpp(1351,12): warning C4129: 'C': unrecognized character escape sequence
+  Schedule.cpp
+  Vehicle.cpp
+  Generating Code...
+  project.vcxproj -> F:\oop\x64\Debug\project.exe

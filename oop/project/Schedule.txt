@@ -1,0 +1,19 @@
+Schedule Plan:
+---------------------------------------------------------------------------------------------------------------
+ID             Vehicle        Destination    Time           Capacity       Commuter       Destination    Time           
+1              V06            ChuaChuKang    7:20             6              C06            ChuaChuKang    7:20             
+2              V06            ChuaChuKang    7:20             5              C07            ChuaChuKang    7:20             
+3              V06            ChuaChuKang    7:20             4              C08            ChuaChuKang    7:20             
+4              V06            ChuaChuKang    7:20             3              C09            ChuaChuKang    7:45             
+5              V06            ChuaChuKang    7:20             2              C10            ChuaChuKang    7:45             
+6              V06            ChuaChuKang    7:20             1              C11            ChuaChuKang    7:20             
+7              V02            ChuaChuKang    7:00             2              C12            ChuaChuKang    7:20             
+8              V02            ChuaChuKang    7:00             1              C13            ChuaChuKang    7:20             
+11             V03            Loyang         7:20             6              C01            Loyang         7:20             
+12             V03            Loyang         7:20             5              C02            Loyang         7:20             
+13             V03            Loyang         7:20             4              C03            Loyang         7:20             
+14             V03            Loyang         7:20             3              C04            Loyang         7:20             
+15             V03            Loyang         7:20             2              C05            Loyang         7:20             
+16             V03            Loyang         7:20             1              C16            Loyang         7:20             
+17             V01            Loyang         7:00             2              C17            Loyang         7:20             
+18             V01            Loyang         7:00             1              C18            Loyang         7:20             
